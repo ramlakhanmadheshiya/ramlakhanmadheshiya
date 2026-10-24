@@ -6,6 +6,4 @@
 
 - Contact me at **ramlakhanmadheshiya7@gmail.com**
 
-[![Ramlakhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramlakhanmadheshiya&show_icons=true&theme=transparent&hide_border=true&card_width=400)](https://github.com/ramlakhanmadheshiya) [![GitHub Streak](https://streak-stats.demolab.com?user=ramlakhanmadheshiya&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400)](https://github.com/ramlakhanmadheshiya)
-
 <!-- [![Ramlakhan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ramlakhanmadheshiya&theme=github-compact&hide_border=true	)](https://github.com/ramlakhanmadheshiya) -->
